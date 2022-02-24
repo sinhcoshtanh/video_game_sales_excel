@@ -22,4 +22,4 @@ This is my analysis and report on 'Video Game Sales' from 1980 to 2020.
 
 [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Credits to [Gregory Smith](https://www.linkedin.com/in/greg-smith-ab567712/), currently Senior Analytics Engineer at Health Catalyst, for contributing this [Kaggle](https://www.kaggle.com/) data set. 
 
-![gif](https://giphy.com/gifs/HIDIVE-umaru-himouto-umaru-chan-QOcbKpFWoHOSsfRH6K)
+![gif](https://media.giphy.com/media/QOcbKpFWoHOSsfRH6K/giphy.gif)
