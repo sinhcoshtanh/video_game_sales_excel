@@ -16,7 +16,7 @@
 
 ## Introduction:
 
-This is my analysis and report on 'Video Game Sales' from 1990 to 2020.
+This is my analysis and report on 'Video Game Sales' from 1980 to 2020.
 
 ## Files:
 
