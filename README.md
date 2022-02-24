@@ -7,20 +7,8 @@
 ## Author: 
 [@SinhCoshTanh](https://github.com/sinhcoshtanh) on GitHub.
 
-## Objectives:
-
-### Genre Analysis
-1. Genre performance over the years.
-2. Top performing genres per console over the years.
-
-### Region Analysis
-1. Each genre's performance in each region.
-2. Each platform's performance in each region.
-3. 
-
 ## Introduction:
-
-This is my analysis and report on 'Video Game Sales' from 1980 to 2020.
+Here, in this repository, I aim to analyze video game sales with the idea of presenting this to a board of directors regarding the future of video game sales. Beginning by analysing the top video games sold in the perspective of the global market. As this will allow for me to then continue to analyse the frequency in terms of the top selling genres and video game publishers. Furthermore I shall analyse market trends in terms of growing regions. Determining the most profitable and growing trends regarding highest percentage of population to units sold.
 
 ## Files:
 
