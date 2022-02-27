@@ -14,7 +14,11 @@ Here, in this repository, I aim to analyze video game sales with the idea of pre
 - Top 5 performing genres in each region
 - Top 5 performing publishers in each region
 - Top 5 performing platforms in each region
-- The most 
+- Genres gaining the most popularity globally
+- Publishers gaining the most popularity globally
+- The top performing game
+- The top performing game series
+- Connections between the top perfomring game series and the top performing game genres
 
 ## CONTENT:
 
