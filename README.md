@@ -38,6 +38,7 @@ Here, in this repository, I aim to analyze video game sales with the idea of pre
 ## Files:
 - The original file can be found [here](https://www.kaggle.com/gregorut/videogamesales) - Credits to [Gregory Smith](https://www.linkedin.com/in/greg-smith-ab567712/), currently Senior Analytics Engineer at Health Catalyst, for contributing this [Kaggle](https://www.kaggle.com/) data set. 
 - Dataset: [vgsales.csv](files/vgsales.csv)
+- Dashboard: [dashboard](files/dashboards.xlsx)
 
 ## Improvements:
 - Migration to the Jupyter Notebook.
