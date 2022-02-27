@@ -36,7 +36,7 @@ Here, in this repository, I aim to analyze video game sales with the idea of pre
 - Connections between the top perfomring game series and the top performing game genres
 
 ## Files:
-['Video Game Sales'](https://www.kaggle.com/gregorut/videogamesales) - Credits to [Gregory Smith](https://www.linkedin.com/in/greg-smith-ab567712/), currently Senior Analytics Engineer at Health Catalyst, for contributing this [Kaggle](https://www.kaggle.com/) data set. 
+'[Video Game Sales]'(https://www.kaggle.com/gregorut/videogamesales) - Credits to [Gregory Smith](https://www.linkedin.com/in/greg-smith-ab567712/), currently Senior Analytics Engineer at Health Catalyst, for contributing this [Kaggle](https://www.kaggle.com/) data set. 
 
 ## Improvements:
 - Migration to the Jupyter Notebook.
