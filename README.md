@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/QOcbKpFWoHOSsfRH6K/giphy.gif" />
 </p>
 
-## INTRODUCTION:
+## Introduction:
 Here, in this repository, I aim to analyze video game sales with the idea of presenting this to a board of directors regarding the future of video game sales. Beginning by analysing the top video games sold in the perspective of the global market. Allowing for us to then continue to analyse the frequency in terms of the top selling genres and video game publishers. Furthermore I shall analyse market trends in terms of growing regions. Determining the most profitable and growing trends regarding highest percentage of population to units sold.
 
-## DATASET FIELDS:
+## Dataset Fields:
 
 |Name|Description|
 |---|---|
@@ -23,7 +23,7 @@ Here, in this repository, I aim to analyze video game sales with the idea of pre
 |Other_Sales|Sales in the rest of the world (in millions)|
 |Global_Sales|Total worldwide sales|
 
-## OBJECTIVES:
+## Objectives:
 - Calculate the Global contribution for each Platform from each Region
 - Calculate the total Global sales
 - Top 5 performing genres in each region
@@ -35,10 +35,8 @@ Here, in this repository, I aim to analyze video game sales with the idea of pre
 - The top performing game series
 - Connections between the top perfomring game series and the top performing game genres
 
-## 
-
-## FILES:
+## Files:
 [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Credits to [Gregory Smith](https://www.linkedin.com/in/greg-smith-ab567712/), currently Senior Analytics Engineer at Health Catalyst, for contributing this [Kaggle](https://www.kaggle.com/) data set. 
 
-## IMPROVEMENTS:
-• 
+## Improvements:
+- Migration to the Jupyter Notebook.
