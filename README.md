@@ -7,7 +7,7 @@
 ## Introduction:
 Here, in this repository, I aim to analyze video game sales with the idea of presenting this to a board of directors regarding the future of video game sales. Beginning by analysing the top video games sold in the perspective of the global market. Allowing for us to then continue to analyse the frequency in terms of the top selling genres and video game publishers. Furthermore I shall analyse market trends in terms of growing regions. Determining the most profitable and growing trends regarding highest percentage of population to units sold.
 
-## Dataset Fields:
+## Data set Fields:
 
 |Name|Description|
 |---|---|
