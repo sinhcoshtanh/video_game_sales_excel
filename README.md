@@ -35,6 +35,8 @@ You can see the raw Microsoft Excel file [here](https://github.com/sinhcoshtanh/
 - Top 5 performing platforms in each region
 ![](https://github.com/sinhcoshtanh/video_game_sales_excel/blob/b0d23d81af7cc0e0f05c62736037d89dfecdb93d/files/top_plat_region.png)
 
+- Genres gaining the most popularity globally
+![](https://github.com/sinhcoshtanh/video_game_sales_excel/blob/6dbfbbea12ac3e16510f43b816dc18467cfa05d4/files/genre_pop.png)
 ## Files:
 - The original file can be found [here](https://www.kaggle.com/gregorut/videogamesales) - Credits to [Gregory Smith](https://www.linkedin.com/in/greg-smith-ab567712/), currently Senior Analytics Engineer at Health Catalyst, for contributing this [Kaggle](https://www.kaggle.com/) data set. 
 - Dataset: [vgsales.csv](https://github.com/sinhcoshtanh/Video-Game-Sales-Analysis/blob/f0a2b1cde024b925370f678437fc4799e93a2401/files/vgsales.csv)
