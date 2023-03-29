@@ -14,7 +14,7 @@ Here, in this repository, I aim to analyze video game sales with the idea of pre
 - Calculate the total Global sales
 
 ### Analysis:
-- Top 5 performing genres in each region
+- [ ] Top 5 performing genres in each region
 - Top 5 performing publishers in each region
 - Top 5 performing platforms in each region
 - Genres gaining the most popularity globally
