@@ -5,7 +5,7 @@
 </p>
 
 ## Introduction:
-Here, in this repository, I aim to analyze video game sales with the idea of presenting this to a board of directors regarding the future of video game sales. Beginning by analysing the top video games sold in the perspective of the global market. Allowing for us to then continue to analyse the frequency in terms of the top selling genres and video game publishers. Furthermore I shall analyse market trends in terms of growing regions. Determining the most profitable and growing trends regarding highest percentage of population to units sold.
+Here, in this repository, I aim to analyse video game sales with the idea of presenting this to a board of directors regarding the future of video game sales. Beginning by analysing the top video games sold in the perspective of the global market. Allowing for us to then continue to analyse the frequency in terms of the top selling genres and video game publishers. Furthermore I shall analyse market trends in terms of growing regions. Determining the most profitable and growing trends regarding highest percentage of population to units sold.
 
 ## Objectives:
 
@@ -14,14 +14,11 @@ Here, in this repository, I aim to analyze video game sales with the idea of pre
 - Calculate the total Global sales
 
 ### Analysis:
-- [X] Top 5 performing genres in each region
-- [X] Top 5 performing publishers in each region
-- [X] Top 5 performing platforms in each region
-- Genres gaining the most popularity globally
-- Publishers gaining the most popularity globally
-- The top performing game
-- The top performing game series
-- Connections between the top perfomring game series and the top performing game genres
+- Top 5 performing genres in each region - [X] 
+- Top 5 performing publishers in each region - [X] 
+- Top 5 performing platforms in each region - [X] 
+- Genres gaining the most popularity globally 
+- Connections between the top performing game series and the top performing game genres
 
 ## Results:
 You can see the raw Microsoft Excel file [here](https://github.com/sinhcoshtanh/video_game_sales_excel/blob/e9afab102ac453941ceb8ca082137912b977e033/dashboards.xlsx). This will include all of the Pivot Tables and VLOOKUP features in addition to the most important aspect of the file, the dashboard file which is found under the 'dashboard' tab underneath.
