@@ -29,7 +29,7 @@ You can see the raw Microsoft Excel file [here](https://github.com/sinhcoshtanh/
 - Top 5 performing genres in each region
 ![](https://github.com/sinhcoshtanh/video_game_sales_excel/blob/b0d23d81af7cc0e0f05c62736037d89dfecdb93d/files/top_genre_regions.png)
 
-Comparing the regions, we notice that for the regions of Europe, North America, and over Global sales, we notice that they all maintain the same top 3 performing genres, Action, Sports, and Shooter. However, after this we notice that there is a rather different preceding genres. With Europe: Racing and Misc, North America: Platform and Misc, and Global sales: Role-Playing and Platform. As we see, the similarity of the regions after the top 3 is position 5 with Misc. We can see that Europe maintains the 
+Comparing the regions, we notice that for the regions of Europe, North America, and over Global sales, we notice that they all maintain the same top 3 performing genres, Action, Sports, and Shooter. However, after this we notice that there is a rather different preceding genres. With Europe: Racing and Misc, North America: Platform and Misc, and Global sales: Role-Playing and Platform. As we see, the similarity of the regions after the top 3 is position 5 with Misc. We can see that Europe holds racing within their top 3 genres, it could be said that this is due to the popularity of motor sports such as Formula 1, Formula E, World Endurance Championship, World Rally Championship, Le Mans, and Deutsche Tourenwagen Masters. 
 
 - Top 5 performing publishers in each region
 ![](https://github.com/sinhcoshtanh/video_game_sales_excel/blob/b0d23d81af7cc0e0f05c62736037d89dfecdb93d/files/top_pub_region.png)
